@@ -74,11 +74,7 @@ Demonstrates the use of an inline function and a friend function to access and d
 * Inline Functions
 * Friend Functions
 
-## Author
 
-**Student Name: Aditya Prabhakar Bhore 
-**Course: Object-Oriented Programming with C++
-**Course Code: ADPC303
 
 
 
